@@ -1,7 +1,7 @@
 ## Welcome to Greg's GitHub 👋
 
 ### About me
-My name is Gregory Milne and I am a UK-based infectious disease researcher currently working on modelling different facets of the epidemiology of the zoonotic parasite, *Toxoplasma gondii*. I am a final-year PhD candidate on the [London Interdisciplinary Doctoral Training Programme (LIDo-DTP)](https://www.lido-dtp.ac.uk/).
+I am a UK-based infectious disease researcher currently working on modelling different facets of the epidemiology of the zoonotic parasite, *Toxoplasma gondii*. I am a final-year PhD candidate on the [London Interdisciplinary Doctoral Training Programme (LIDo-DTP)](https://www.lido-dtp.ac.uk/).
 
 <img src="https://user-images.githubusercontent.com/65221055/147229695-118d4a36-dc00-4c8c-a647-3724463d4d66.png" width="700">
 
