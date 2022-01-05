@@ -19,7 +19,7 @@ I am a UK-based infectious disease researcher currently working on modelling dif
 <br />
 
 ### Recent publications
-**Milne, G.**, Hames, T., Scotton, C., Gent, N., Johnsen, A., Anderson, R.M. and Ward, T., 2021. Does infection with or vaccination against SARS-CoV-2 lead to lasting immunity?. *The Lancet Respiratory Medicine*, 9(12): [https://doi.org/10.1016/S2213-2600(21)00407-0](https://www.sciencedirect.com/science/article/pii/S2213260021004070?casa_token=06uKsSiS-IAAAAAA:eMN4WSMDzObyYNJwIVCK5v1_rEYmaelC6ZEomcIZwugsDBpIS3iS24pAFquqNk42U9-EtKaYVbbf).
+**Milne, G.**, Hames, T., Scotton, C., Gent, N., Johnsen, A., Anderson, R.M. and Ward, T., 2021. Does infection with or vaccination against SARS-CoV-2 lead to lasting immunity? *The Lancet Respiratory Medicine*, 9(12): [https://doi.org/10.1016/S2213-2600(21)00407-0](https://www.sciencedirect.com/science/article/pii/S2213260021004070?casa_token=06uKsSiS-IAAAAAA:eMN4WSMDzObyYNJwIVCK5v1_rEYmaelC6ZEomcIZwugsDBpIS3iS24pAFquqNk42U9-EtKaYVbbf).
 
 **Milne, G.**, Webster, J.P and Walker, M., 2020. *Toxoplasma gondii*: An Underestimated Threat? *Trends in Parasitology*, 36(12): [https://doi.org/10.1016/j.pt.2020.08.005](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(20)30221-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS147149222030221X%3Fshowall%3Dtrue).
 
