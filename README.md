@@ -26,7 +26,7 @@ I am a UK-based infectious disease researcher currently working on modelling dif
 **Milne, G.**, Fujimoto, C., Bean, T., Peters, H.J., Hemmington, M., Taylor, C., Fowkes, R.C., Martineau, H.M., Hamilton, C.M., Walker, M. and Mitchell, J.A., 2020. Infectious Causation of Abnormal Host Behavior: *Toxoplasma gondii* and Its Potential Association With Dopey Fox Syndrome. *Frontiers in Psychiatry*, 11: 
  [https://doi.org/10.3389/fpsyt.2020.513536](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.513536/full).
  
-**Milne, G.**, Webster, J.P and Walker, M., 2020. Toward Improving Interventions Against Toxoplasmosis by Identifying Routes of Transmission Using Sporozoite-specific Serological Tools *Clinical Infectious Diseases*, 71(10): [https://doi.org/10.1093/cid/ciaa428](https://academic.oup.com/cid/article/71/10/e686/5819395).
+**Milne, G.**, Webster, J.P and Walker, M., 2020. Toward Improving Interventions Against Toxoplasmosis by Identifying Routes of Transmission Using Sporozoite-specific Serological Tools. *Clinical Infectious Diseases*, 71(10): https://doi.org/10.1093/cid/ciaa428. Find the GitHub repo [here](https://github.com/gcmilne/oocyst-mod).
 
 [1]: https://twitter.com/GC_Milne
 [2]: https://www.linkedin.com/in/gregory-milne-a31776171/
