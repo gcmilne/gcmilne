@@ -6,7 +6,7 @@ I am a UK-based infectious disease researcher currently working on modelling dif
 [<img src="https://user-images.githubusercontent.com/65221055/147229695-118d4a36-dc00-4c8c-a647-3724463d4d66.png" width="700">](https://github.com/gcmilne/toxo-neuro)
 
 ### Recent work
-- 🔭 I’m currently working on finalising a modelling project for publication and getting my GitHub repositories up to scratch before making them public.
+- 🔭 I’m working on finalising a modelling project for publication, while working on my PhD thesis.
 - 🌱 I’m also learning to improve my R programming skills, with a focus on function oriented programming.
 <br />
 
