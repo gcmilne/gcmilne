@@ -1,14 +1,9 @@
 ## Welcome to Greg's GitHub 👋
 
 ### About me
-I am a UK-based infectious disease researcher currently working on modelling different facets of the epidemiology of the zoonotic parasite, *Toxoplasma gondii*. I am a final-year PhD candidate on the London Interdisciplinary Doctoral Training Programme ([LIDo-DTP](https://www.lido-dtp.ac.uk/)).
+I am a UK-based infectious disease researcher working on improving understanding of infectious diseases, using mathematical modelling and other computer-based tools. I am a Research Associate on the [FibroScHot project](https://www.fibroschot.eu/) working to understand schistosomiasis transmission and morbidity in a high disease burden setting in Uganada. I have a PhD in the epidemiology & public health burden of toxoplasmosis from the London Interdisciplinary Doctoral Training Programme ([LIDo-DTP](https://www.lido-dtp.ac.uk/)).
 
 [<img src="https://user-images.githubusercontent.com/65221055/147229695-118d4a36-dc00-4c8c-a647-3724463d4d66.png" width="700">](https://github.com/gcmilne/toxo-neuro)
-
-### Recent work
-- 🔭 I’m working on finalising a modelling project for publication, while working on my PhD thesis.
-- 🌱 I’m also learning to improve my R programming skills, with a focus on function oriented programming.
-<br />
 
 ### Where to find me
 [<img align="left" alt="Twitter" width="30px" src="https://user-images.githubusercontent.com/65221055/147235064-d9e2d1a6-fc65-45d6-a041-1ab3f4a22019.png" />][1]
