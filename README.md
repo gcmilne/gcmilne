@@ -1,7 +1,7 @@
 ## Welcome to Greg's GitHub 👋
 
 ### About me
-I am a UK-based infectious disease researcher working on improving understanding of infectious diseases, using mathematical modelling and other computer-based tools. I am a Research Associate on the [FibroScHot project](https://www.fibroschot.eu/) working to understand schistosomiasis transmission and morbidity in a high disease burden setting in Uganada. I have a PhD in the epidemiology & public health burden of toxoplasmosis from the London Interdisciplinary Doctoral Training Programme ([LIDo-DTP](https://www.lido-dtp.ac.uk/)).
+I am a UK-based postdoctoral researcher at the Natural History Museum, London, working to improve understanding of the epidemiology and ecology of infectious diseases in the context of global biodiversity loss and land-use change. I do this using a range of methods including mathematical modelling and statistics. Previously, as a postdoc I worked on the neglected tropical disease schistosomiasis for the [FibroScHot Consortium](https://www.fibroschot.eu/), while for my PhD (on the [LIDo-DTP](https://www.lido-dtp.ac.uk/)) I focused on the epidemiology and public health burden of the globally-ubiquitous zoonotic parasite that causes toxoplasmosis.
 
 [<img src="https://user-images.githubusercontent.com/65221055/147229695-118d4a36-dc00-4c8c-a647-3724463d4d66.png" width="700">](https://github.com/gcmilne/toxo-neuro)
 
@@ -16,14 +16,16 @@ I am a UK-based infectious disease researcher working on improving understanding
 <br />
 
 ### Recent publications
-(1) **Milne, G.**, Hames, T., Scotton, C., Gent, N., Johnsen, A., Anderson, R.M. and Ward, T., 2021. Does infection with or vaccination against SARS-CoV-2 lead to lasting immunity? *The Lancet Respiratory Medicine*, 9(12): [https://doi.org/10.1016/S2213-2600(21)00407-0](https://www.sciencedirect.com/science/article/pii/S2213260021004070?casa_token=06uKsSiS-IAAAAAA:eMN4WSMDzObyYNJwIVCK5v1_rEYmaelC6ZEomcIZwugsDBpIS3iS24pAFquqNk42U9-EtKaYVbbf).
 
-(2) [<img align="" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/65221055/149297208-ce948484-5133-4a52-a005-011a22bab23a.png" />][5] **Milne, G.**, Webster, J.P and Walker, M., 2020. *Toxoplasma gondii*: An Underestimated Threat? *Trends in Parasitology*, 36(12): [https://doi.org/10.1016/j.pt.2020.08.005](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(20)30221-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS147149222030221X%3Fshowall%3Dtrue).
+[<img align="" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/65221055/149297208-ce948484-5133-4a52-a005-011a22bab23a.png" />][5] **Milne, G.C.**, Webster, J.P. and Walker, M., 2022. [Is the incidence of congenital toxoplasmosis declining?](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(22)00256-2) *Trends in Parasitology*, 39(1).
 
-(3) **Milne, G.**, Fujimoto, C., Bean, T., Peters, H.J., Hemmington, M., Taylor, C., Fowkes, R.C., Martineau, H.M., Hamilton, C.M., Walker, M. and Mitchell, J.A., 2020. Infectious Causation of Abnormal Host Behavior: *Toxoplasma gondii* and Its Potential Association With Dopey Fox Syndrome. *Frontiers in Psychiatry*, 11: 
- [https://doi.org/10.3389/fpsyt.2020.513536](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.513536/full).
+**Milne, G.** et al., 2021. [Does infection with or vaccination against SARS-CoV-2 lead to lasting immunity?](https://www.sciencedirect.com/science/article/pii/S2213260021004070?casa_token=06uKsSiS-IAAAAAA:eMN4WSMDzObyYNJwIVCK5v1_rEYmaelC6ZEomcIZwugsDBpIS3iS24pAFquqNk42U9-EtKaYVbbf) *The Lancet Respiratory Medicine*, 9(12).
+
+[<img align="" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/65221055/149297208-ce948484-5133-4a52-a005-011a22bab23a.png" />][6] **Milne, G.**, Webster, J.P and Walker, M., 2020. [*Toxoplasma gondii*: An Underestimated Threat?](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(20)30221-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS147149222030221X%3Fshowall%3Dtrue) *Trends in Parasitology*, 36(12).
+
+**Milne, G.** et al., 2020. [Infectious Causation of Abnormal Host Behavior: *Toxoplasma gondii* and Its Potential Association With Dopey Fox Syndrome](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.513536/full). *Frontiers in Psychiatry*, 11.
  
-(4) [<img align="" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/65221055/149297208-ce948484-5133-4a52-a005-011a22bab23a.png" />][6] **Milne, G.**, Webster, J.P and Walker, M., 2020. Toward Improving Interventions Against Toxoplasmosis by Identifying Routes of Transmission Using Sporozoite-specific Serological Tools. *Clinical Infectious Diseases*, 71(10): https://doi.org/10.1093/cid/ciaa428.
+[<img align="" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/65221055/149297208-ce948484-5133-4a52-a005-011a22bab23a.png" />][7] **Milne, G.**, Webster, J.P. and Walker, M., 2020. [Toward Improving Interventions Against Toxoplasmosis by Identifying Routes of Transmission Using Sporozoite-specific Serological Tools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744992/). *Clinical Infectious Diseases*, 71(10).
 
 <br />
 
@@ -38,5 +40,6 @@ I am a UK-based infectious disease researcher working on improving understanding
 [2]: https://www.linkedin.com/in/gregory-milne-a31776171/
 [3]: https://www.researchgate.net/profile/Gregory-Milne
 [4]: https://orcid.org/my-orcid?orcid=0000-0002-9594-3321
-[5]: https://github.com/gcmilne/toxo-neuro
-[6]: https://github.com/gcmilne/oocyst-mod
+[5]: https://github.com/gcmilne/temptrends
+[6]: https://github.com/gcmilne/toxo-neuro
+[7]: https://github.com/gcmilne/oocyst-mod
