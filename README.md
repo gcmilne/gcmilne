@@ -1,7 +1,7 @@
 ## Welcome to Greg's GitHub 👋
 
 ### About me
-I am a UK-based postdoctoral researcher at the Natural History Museum, London, working to improve understanding of the epidemiology and ecology of infectious diseases in the context of global biodiversity loss and land-use change. I do this using a range of methods including mathematical modelling and statistics. Previously, as a postdoc I worked on the neglected tropical disease schistosomiasis for the [FibroScHot Consortium](https://www.fibroschot.eu/), while for my PhD (on the [LIDo-DTP](https://www.lido-dtp.ac.uk/)) I focused on the epidemiology and public health burden of the globally-ubiquitous zoonotic parasite that causes toxoplasmosis.
+I am a UK-based postdoctoral researcher at the Natural History Museum, London, working to improve understanding of the epidemiology and ecology of infectious diseases in the context of global climate change, biodiversity loss and land-use change. I do this using a range of methods including mathematical modelling and applied statistics. Previously, as a postdoc I worked on the neglected tropical disease schistosomiasis for the [FibroScHot Consortium](https://www.fibroschot.eu/), while for my PhD (on the [LIDo-DTP](https://www.lido-dtp.ac.uk/)) I focused on the epidemiology and public health burden of the globally-ubiquitous zoonotic parasite that causes toxoplasmosis.
 
 [<img src="https://user-images.githubusercontent.com/65221055/147229695-118d4a36-dc00-4c8c-a647-3724463d4d66.png" width="700">](https://github.com/gcmilne/toxo-neuro)
 
